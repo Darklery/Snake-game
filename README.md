@@ -1,2 +1,2 @@
 # Snake-game-dio
-projeto do jogo da cobrinha feito na trilha  Órbi  Web Games Developer
+projeto do jogo da cobrinha  feito em HTML CSS E JS
